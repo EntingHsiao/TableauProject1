@@ -6,3 +6,8 @@ The CrunchBase data I used contains the information about global startup compani
 With the dataset, we can learn the development of startups from different aspects.
 
 [Link to the project](https://public.tableau.com/views/Wherearetheunicornsfrom/Story1?:embed=y&:display_count=yes&publish=yes)
+
+## Resource
+
+**Startup Venture Funding** , Sample Data, Tableau  https://public.tableau.com/en-us/s/resources
+
